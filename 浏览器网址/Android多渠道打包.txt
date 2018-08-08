@@ -1,0 +1,6 @@
+﻿Android 快速渠道批量打包详解教程-美团多渠道打包方案
+https://www.jianshu.com/p/5d1ad9839c90
+Gradle多渠道打包(动态设定App名称，应用图标，替换常量，更改包名，变更渠道)
+https://www.jianshu.com/p/533240d222d3
+Android Studio Gradle 多渠道，多appkey签名打包
+https://blog.csdn.net/javalfx/article/details/49537025
